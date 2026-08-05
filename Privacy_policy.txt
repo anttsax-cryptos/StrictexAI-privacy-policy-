@@ -1,1 +1,9 @@
+{The privacy policy for StrictexAI}
 
+•App Name: StrictexAI.
+
+•App Type: AI chatbot assistant.
+
+•Data collection: This app temporarily saves the user's chats. No personal data or conversations are collected permanently or shared.
+
+•privacy: your privacy is safe and not shared.
