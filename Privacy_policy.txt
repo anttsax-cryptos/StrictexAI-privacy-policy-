@@ -7,3 +7,5 @@
 •Data collection: This app temporarily saves the user's chats. No personal data or conversations are collected permanently or shared.
 
 •privacy: your privacy is safe and not shared.
+
+•image generation: the image generation depends on the user's input. any age-inappropriate image generated is not the AI's fault
